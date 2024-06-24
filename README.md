@@ -5,12 +5,8 @@
 
 
 
+Esta plantilla proporciona una configuración mínima para hacer funcionar React en Vite con HMR (recarga rápida) y algunas reglas de ESLint. Actualmente, hay dos complementos oficiales disponibles:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
+@vitejs/plugin-react: Utiliza Babel para la recarga rápida.
+@vitejs/plugin-react-swc: Utiliza SWC para la recarga rápida." 1
 
